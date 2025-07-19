@@ -1,3 +1,5 @@
+print("Hello, this is a system to arrange and number the names of students, but you have to download the Paycharm application, and if you did all of this, read the instructions. Instructions: If you want to add a name, go to the edge of the names in student and write "omar", the name is not important, write anything inside it, but an example is like "ali", and if you want to delete, you have to delete the name, the comma, and the "", and if the number of seventy students is not enough for you, go to the edge of the last line and press enter, wait for hidden writing to appear, press it again, and it will increase, and if no writing appears, delete the line using backspace, and congratulations and copy this code , do not copy the instructions, an error will appear. Sometimes the writing appears above the names and sometimes under them")
+
 student = ["Omar","Yarob","Ahmed","Khaled","Hassan","Hasan","ali"]
 name = "Omar"
 name2 = "Yarob"
